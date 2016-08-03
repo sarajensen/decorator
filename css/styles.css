@@ -1,0 +1,14 @@
+.column {
+  float: left;
+  width: 300px;
+  padding: 2%;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.size {
+  width: 250px;
+}
