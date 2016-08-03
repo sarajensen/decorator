@@ -1,8 +1,25 @@
-.column {
+.column1 {
   float: left;
   width: 300px;
   padding: 2%;
   text-align: center;
+  background-color: red;
+}
+
+.column2 {
+  float: left;
+  width: 300px;
+  padding: 2%;
+  text-align: center;
+  background-color: green;
+}
+
+.column3 {
+  float: left;
+  width: 300px;
+  padding: 2%;
+  text-align: center;
+  background-color: blue;
 }
 
 h1 {
